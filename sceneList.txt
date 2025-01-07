@@ -1,3 +1,4 @@
 challenge1_bundle,Challenge1
 challenge2_bundle,Challenge2
 challenge3_bundle,Challenge3
+challenge4_bundle,Challenge4
